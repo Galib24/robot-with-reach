@@ -1,0 +1,119 @@
+[
+    {
+      "id": 6831,
+      "uid": "9611e0e0-2c7e-4c94-b5aa-80a3976e2343",
+      "password": "kZhcdsWCBi",
+      "first_name": "Mackenzie",
+      "last_name": "Parisian",
+      "username": "mackenzie.parisian",
+      "email": "mackenzie.parisian@email.com",
+      "avatar": "https://robohash.org/omniseadeserunt.png?size=300x300&set=set1",
+      "gender": "Genderqueer",
+      "phone_number": "+591 428.077.6103 x7961",
+      "social_insurance_number": "902851179",
+      "date_of_birth": "1984-02-09",
+      "employment": {
+        "title": "Principal Sales Supervisor",
+        "key_skill": "Confidence"
+      },
+      "address": {
+        "city": "Nanniehaven",
+        "street_name": "Cartwright Points",
+        "street_address": "5279 Boyer Square",
+        "zip_code": "64777-4430",
+        "state": "Louisiana",
+        "country": "United States",
+        "coordinates": {
+          "lat": 73.32888712474664,
+          "lng": 155.84908930381874
+        }
+      },
+      "credit_card": {
+        "cc_number": "5249-5617-4202-2818"
+      },
+      "subscription": {
+        "plan": "Business",
+        "status": "Idle",
+        "payment_method": "Apple Pay",
+        "term": "Full subscription"
+      }
+    },
+    {
+      "id": 5954,
+      "uid": "8fb03f72-2d02-4725-b021-b6580f058893",
+      "password": "JhojLAxeES",
+      "first_name": "Tanesha",
+      "last_name": "Schuppe",
+      "username": "tanesha.schuppe",
+      "email": "tanesha.schuppe@email.com",
+      "avatar": "https://robohash.org/repudiandaemolestiaealias.png?size=300x300&set=set1",
+      "gender": "Polygender",
+      "phone_number": "+53 (757) 104-5318 x956",
+      "social_insurance_number": "517031910",
+      "date_of_birth": "1970-09-18",
+      "employment": {
+        "title": "Human Design Technician",
+        "key_skill": "Confidence"
+      },
+      "address": {
+        "city": "East Sanora",
+        "street_name": "Florene Orchard",
+        "street_address": "81052 Abernathy Springs",
+        "zip_code": "67569",
+        "state": "Wyoming",
+        "country": "United States",
+        "coordinates": {
+          "lat": -23.372949713511744,
+          "lng": -21.432837103722534
+        }
+      },
+      "credit_card": {
+        "cc_number": "4416929904310"
+      },
+      "subscription": {
+        "plan": "Standard",
+        "status": "Active",
+        "payment_method": "Cash",
+        "term": "Payment in advance"
+      }
+    },
+    {
+      "id": 6963,
+      "uid": "d1b3a28d-f15e-4fc8-8e60-0fa59e487474",
+      "password": "vMBFKQA0n5",
+      "first_name": "Cordie",
+      "last_name": "Denesik",
+      "username": "cordie.denesik",
+      "email": "cordie.denesik@email.com",
+      "avatar": "https://robohash.org/recusandaeprovidentea.png?size=300x300&set=set1",
+      "gender": "Male",
+      "phone_number": "+503 (433) 200-8517 x791",
+      "social_insurance_number": "443226501",
+      "date_of_birth": "2003-05-02",
+      "employment": {
+        "title": "Central Marketing Designer",
+        "key_skill": "Technical savvy"
+      },
+      "address": {
+        "city": "East Yong",
+        "street_name": "Schultz Courts",
+        "street_address": "9494 Wiza Neck",
+        "zip_code": "92094",
+        "state": "Alaska",
+        "country": "United States",
+        "coordinates": {
+          "lat": 72.85918262552164,
+          "lng": -154.0375041737668
+        }
+      },
+      "credit_card": {
+        "cc_number": "5551-6043-1315-2689"
+      },
+      "subscription": {
+        "plan": "Gold",
+        "status": "Pending",
+        "payment_method": "Apple Pay",
+        "term": "Payment in advance"
+      }
+    }
+  ]
